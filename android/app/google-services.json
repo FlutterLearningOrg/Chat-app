@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789927641433",
+    "project_id": "nirala-chat",
+    "storage_bucket": "nirala-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789927641433:android:fb67b7e4f51ade4de04c48",
+        "android_client_info": {
+          "package_name": "co.nirala.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789927641433-qghr433nmas0jt00rbkkeds474rj5hdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMQOUDqmHwAbZw_vf_IuI_nJ0lmNOF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789927641433-qghr433nmas0jt00rbkkeds474rj5hdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
